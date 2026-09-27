@@ -1,0 +1,4 @@
+build/
+verification/
+__pycache__/
+*.partial
